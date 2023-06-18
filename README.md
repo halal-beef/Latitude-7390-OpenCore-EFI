@@ -18,3 +18,13 @@
   </p>
 </p>
 </br>
+
+## 💻 Hardware Configuration
+
+| Category  | Component                            |
+| --------- | ------------------------------------ |
+| CPU       | Intel Core i5-8350U                  |
+| GPU       | Intel UHD Graphics 620               |
+| SSD       | Western Digital PC SN720 NVME        |
+| Memory    | 8GB DDR4 2400Mhz                     |
+| WiFi & BT | Intel Wireless AC-8625               |
