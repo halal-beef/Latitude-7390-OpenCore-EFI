@@ -1,6 +1,6 @@
 # Dell Latitude 7390 - OpenCore Configuation
 
-<img align="right" src="https://github.com/halal-beef/res/blob/main/latitude.png" alt="macOS Ventura running on the Latitude 7390" height="425">
+<img align="right" src="https://github.com/halal-beef/res/blob/main/latitude.png" alt="macOS Ventura running on the Latitude 7390" height="380">
 
 
 [![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
