@@ -28,3 +28,25 @@
 | SSD       | Western Digital PC SN720 NVME        |
 | Memory    | 8GB DDR4 2400Mhz                     |
 | WiFi & BT | Intel Wireless AC-8625               |
+
+## 🛠️ Status
+
+- [X] WiFi & Bluetooth
+- [X] Brightness / Volume Control
+- [X] Battery Information
+- [X] Audio (Audio Jack & Speaker)
+- [X] USB Ports & Built-in Camera
+- [X] Graphics Acceleration
+- [X] Trackpoint / Touchpad
+- [ ] Touchpad Buttons
+- [X] Power management / Sleep
+- [X] FaceTime / iMessage (iServices)
+- [X] HDMI
+- [X] Automatic OS updates
+- [X] USB-C
+
+## 📜 Credits
+
+- [valnoxy](https://github.com/valnoxy) ```For the README Template```
+- [AlbinoGiraffe](https://github.com/AlbinoGiraffe) ```For the SSDT-GPI0.aml```
+- [dortania](https://github.com/Dortania) ```For the OpenCore guide```
