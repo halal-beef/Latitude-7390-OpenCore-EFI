@@ -10,15 +10,11 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>Version: </strong>1.2.2
+   <strong>Version: </strong>0.1
    <br />
-   <a href="https://github.com/valnoxy/t480-oc/releases"><strong>Download now »</strong></a>
+   <a href="https://github.com/halal-beef/Latitude-7390-OpenCore-EFI/archive/refs/heads/main.zip"><strong>Download now »</strong></a>
    <br />
-   <a href="https://github.com/valnoxy/t480-oc/issues">Report Bug</a>
-   ·
-   <a href="https://github.com/valnoxy/t480-oc/blob/main/CHANGELOG.md">View Changelog</a>
-   ·
-   <a href="https://www.youtube.com/watch?v=thYDWyJuUq4">YouTube Video</a>
+   <a href="https://github.com/halal-beef/Latitude-7390-OpenCore-EFI/issues">Report Bug</a>
   </p>
 </p>
 </br>
