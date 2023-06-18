@@ -1114,7 +1114,7 @@
 			<key>SystemSerialNumber</key>
 			<string>FVFY1SYYL40Y</string>
 			<key>SystemUUID</key>
-			<string>00000000-0000-0000-0000-000000000000</string>
+			<string>5422F4AF-F4AA-49A8-8E04-18DF2FC7FA9D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1123,7 +1123,7 @@
 		<key>UpdateSMBIOS</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
-		<string>Create</string>
+		<string>Custom</string>
 		<key>UseRawUuidEncoding</key>
 		<false/>
 	</dict>
