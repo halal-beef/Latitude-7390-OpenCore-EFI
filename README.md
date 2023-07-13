@@ -10,7 +10,7 @@
 <p align="center">
    <strong>Status: Maintained</strong>
    <br />
-   <strong>Version: </strong>0.1
+   <strong>Version: </strong>0.2
    <br />
    <a href="https://github.com/halal-beef/Latitude-7390-OpenCore-EFI/archive/refs/heads/main.zip"><strong>Download now »</strong></a>
    <br />
@@ -31,7 +31,7 @@
 
 ## ❗ Post Installation
 
-### Fixing crackly audio coming from the headphone port
+#### Fixing crackly audio coming from the headphone port
 
 - Open the Terminal 
 - cd into the "ComboJack_Installer" folder
