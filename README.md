@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 <p align="center">
-   <strong>Status: Abandoned</strong>
+   <strong>Status: Maintained</strong>
    <br />
    <strong>Version: </strong>0.1
    <br />
@@ -28,6 +28,15 @@
 | SSD       | Western Digital PC SN720 NVME        |
 | Memory    | 16GB DDR4 2400Mhz                    |
 | WiFi & BT | Intel Wireless AC-8625               |
+
+## ❗ Post Installation
+
+### Fixing crackly audio coming from the headphone port
+
+- Open the Terminal 
+- cd into the "ComboJack_Installer" folder
+- Type ./install.sh and type in your password when asked
+- Reboot
 
 ## 🛠️ Status
 
