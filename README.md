@@ -29,7 +29,7 @@
 | Memory    | 16GB DDR4 2400Mhz                    |
 | WiFi & BT | Intel Wireless AC-8625               |
 
-## Sonoma EFI
+##  Sonoma EFI
 
 - With the latest commit you may have noticed that there is now a "Sonoma" folder, this is just the main EFI with a new AirportItlwm build (Preview 2 for anyone seeing this in the future), Post installation steps still apply here and right now there is no bugs that I have seen.
 
