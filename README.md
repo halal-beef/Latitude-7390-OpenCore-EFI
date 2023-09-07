@@ -51,6 +51,7 @@
 - [X] Brightness / Volume Control
 - [X] Battery Information
 - [X] Audio (Audio Jack & Speaker)
+- [X] Internal Microphone
 - [X] USB Ports & Built-in Camera
 - [X] Graphics Acceleration
 - [X] Trackpoint / Touchpad
