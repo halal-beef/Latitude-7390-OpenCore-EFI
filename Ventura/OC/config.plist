@@ -136,6 +136,8 @@
 		<array/>
 		<key>Quirks</key>
 		<dict>
+			<key>FixupAppleEfiImages</key>
+			<false/>
 			<key>AllowRelocationBlock</key>
 			<false/>
 			<key>AvoidRuntimeDefrag</key>
