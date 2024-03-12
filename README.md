@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 <p align="center">
-   <strong>Status: Maintained</strong>
+   <strong>Status: Abandoned</strong>
    <br />
    <strong>Version: </strong>0.4
    <br />
