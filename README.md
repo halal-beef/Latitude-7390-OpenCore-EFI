@@ -3,15 +3,14 @@
 <img align="right" src="https://github.com/halal-beef/res/blob/main/latitude.png" alt="macOS Ventura running on the Latitude 7390" width="425">
 
 
-[![macOS](https://img.shields.io/badge/macOS-Ventura-orange.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Sonoma-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.9.7-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue)](https://github.com/acidanthera/OpenCorePkg)
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 <p align="center">
-   <strong>Status: Abandoned</strong>
+   <strong>Status: Maintained</strong>
    <br />
-   <strong>Version: </strong>0.4
+   <strong>Version: </strong>0.5
    <br />
    <a href="https://github.com/halal-beef/Latitude-7390-OpenCore-EFI/archive/refs/heads/main.zip"><strong>Download now »</strong></a>
    <br />
@@ -29,12 +28,6 @@
 | SSD       | Western Digital PC SN720 NVME        |
 | Memory    | 16GB DDR4 2400Mhz                    |
 | WiFi & BT | Intel Wireless AC-8625               |
-
-##  Sonoma EFI
-
-- With the latest commit you may have noticed that there is now a "Sonoma" folder, this is just the main EFI with a new AirportItlwm build (Preview 5 for anyone seeing this in the future), Post installation steps still apply here and right now there is no bugs that I have seen.
-
-- For installation right now you'll have to use the main EFI and install Mac OS Ventura then update the EFI folder with the Sonoma EFI folder making sure you do not reboot your system then you can install the update.
 
 ## ❗ Post Installation
 
